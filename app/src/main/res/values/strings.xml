@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">QuoteX</string>
+
+    <string-array name="quotes">
+
+        <item>"Talk is cheap. Show me the code."</item>
+        <item>"What one programmer can do in one month, two programmers can do in two months."</item>
+        <item>"Programs must be written for people to read, and only incidentally for machines to execute."</item>
+        <item>"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."</item>
+
+    </string-array>
 </resources>
